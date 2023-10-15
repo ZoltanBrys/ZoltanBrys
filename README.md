@@ -1,5 +1,4 @@
-- 👋 I’m @ZoltanBrys, a computational social researcher, PhD-Student. 
-- 👀 I’m interested in explorative statistic, machine learning and doing all of this in R.
+- I’m @ZoltanBrys, a social researcher, who uses machine learning and advanced network models. 
 
 <!---
 ZoltanBrys/ZoltanBrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
